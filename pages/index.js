@@ -36,7 +36,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyle.headingMd}>
         <p>
-          私の名前はゴリぽんです/UOH/ゴリぽんとは
+          私の名前はゴリぽんです/ポン爺/ゴリぽんとはゴリラとポン酢です。
         </p>
       </section>
 
